@@ -9,6 +9,8 @@ An elegant, production-ready desktop application built with Python and Tkinter t
 - **Dynamic Workflow**: Automatically triggers and opens the generated review file for HR verification.
 - **Engineered Logic**: Handles complex calculations for late minutes (with grace periods), early departures, overtime, and custom leaves (AM/PM).
 
+  ![Application Screenshot](image.png)
+
 ## 🛠️ Tech Stack
 - **Language**: Python 3.11
 - **GUI Framework**: Tkinter
