@@ -1,0 +1,7 @@
+.venv311/
+build/
+dist/
+*.spec
+__pycache__/
+.idea/
+*.xlsx
